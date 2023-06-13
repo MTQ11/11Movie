@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/11Movie/static/css/main.e2affa89.css",
+    "main.js": "/11Movie/static/js/main.a1a7f33f.js",
+    "static/media/footer.jpg": "/11Movie/static/media/footer.67e95f05e76a8cebf7e2.jpg",
+    "static/media/logo.png": "/11Movie/static/media/logo.d5ea0a8cda413f6f1e7d.png",
+    "index.html": "/11Movie/index.html",
+    "main.e2affa89.css.map": "/11Movie/static/css/main.e2affa89.css.map",
+    "main.a1a7f33f.js.map": "/11Movie/static/js/main.a1a7f33f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2affa89.css",
+    "static/js/main.a1a7f33f.js"
+  ]
+}
